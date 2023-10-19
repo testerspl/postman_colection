@@ -1,0 +1,39 @@
+{
+	"id": "8ad9139c-7da4-4b15-9a27-de29a022511d",
+	"name": "UAT",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "http://216.10.245.166",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "website",
+			"value": "\"http://google.com\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "language",
+			"value": "\"French-IN\"",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "lat",
+			"value": "-38.383494",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "book_id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2023-10-19T12:00:26.861Z",
+	"_postman_exported_using": "Postman/10.15.4"
+}
